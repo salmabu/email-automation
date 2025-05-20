@@ -43,9 +43,9 @@ with open('contacts.csv', newline='') as file:
                 <hr>
     <p style="font-size:12px; color:gray;">
       —<br>
-      Salma from Somewhere.com<br>
-      📧 salmabud814@gmail.com<br>
-      📞 +971-XXX-XXXX
+      [NAME] from websitename.com<br>
+      📧 youremail@gmail.com<br>
+      📞 +XXX-XXX-XXXX
     </p>
 
           </body>
