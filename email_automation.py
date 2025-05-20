@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Your Gmail infoS
-EMAIL = "salmabud814@gmail.com"
-APP_PASSWORD = "rhxg qdtl zdtv csfr"
+EMAIL = "ENTER YOUR EMAIL HERE"
+APP_PASSWORD = "ENTER GMAIL PASSWORD HERE"
 
 # Open and read the CSV file
 with open('contacts.csv', newline='') as file:
