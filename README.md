@@ -49,4 +49,4 @@ Bob,bob@example.com,Hello Bob! This is another message.
 
 >> Contact
 
-For questions, email: salmabud814@gmail.com
+For questions or suggestions, feel free to email: saloom8143@gmail.com
